@@ -16,5 +16,8 @@ To analyze Total Sales by Year, Average Profit by Market, Average Profit by Cate
 - $2.19M in Total Sales from 2011 to 2015
 - 2015 has a drop in Sales due to lack of information.
 
+## Interactive Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiYTBhZTEyODUtNjRkNS00ZTY0LWE4YWQtMzYxZWJjYzUzNWMzIiwidCI6Ijk2ODc2Y2E3LTJmZTktNDg3YS05NjFkLWE5MmU2N2M1YmY0OCJ9
+
 
 Thanks for checking my project! 
