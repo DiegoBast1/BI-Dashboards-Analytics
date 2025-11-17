@@ -10,7 +10,7 @@ To analyze Total Sales by Year, Average Profit by Market, Average Profit by Cate
 - Excel to store the data
 - Power BI to load, clean and create visuals with data to answer this business questions
 
-## Main Insights Found
+## Key Insights Found
 - Technology is the most profitable category
 - Unites States, APAC and the EU are the most profitable markets
 - $2.19 Million in Sales from 2011 to 2015
