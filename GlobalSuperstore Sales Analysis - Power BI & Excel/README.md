@@ -13,7 +13,7 @@ To analyze Total Sales by Year, Average Profit by Market, Average Profit by Cate
 ## Key Insights Found
 - Technology is the most profitable category
 - Unites States, APAC and the EU are the most profitable markets
-- $2.19 Million in Sales from 2011 to 2015
+- $2.19 Million in Total Sales from 2011 to 2015
 - 2015 has a drop in Sales due to lack of information.
 
 
