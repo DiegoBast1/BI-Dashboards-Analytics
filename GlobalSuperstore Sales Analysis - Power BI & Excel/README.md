@@ -8,7 +8,7 @@ To analyze Total Sales by Year, Average Profit by Market, Average Profit by Cate
 
 ## Tools Used
 - Excel to store the data
-- Power BI to load, clean and create visuals with data to answer this business questions
+- Power BI to load, clean and create visuals with data to answer business questions
 
 ## Key Insights Found
 - Technology is the most profitable category
