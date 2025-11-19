@@ -1,16 +1,16 @@
 # Chocolate Company Business Performance Report with SQL and Power BI
 
 ## Project Purpose
-To analyze Total Sales by Year, Average Profit by Market, Average Profit by Category and Total Sales
+Create a business summary dashboard with key general information to understand the company's performance. 
 
 ## Data sources
 awesome-chocolates SQL database
 
 ## Tools Used
-Excel to store the data
-Power BI to load, clean and create visuals with data to answer business questions
+- SQL (MySQL)
+- Power BI
 
-## Key Insights Found
+## Key Insights 
 Technology is the most profitable category
 Unites States, APAC and the EU are the most profitable markets
 $2.19M in Total Sales from 2011 to 2015
