@@ -11,12 +11,13 @@ awesome-chocolates SQL database
 - Power BI
 
 ## Key Insights 
-Technology is the most profitable category
-Unites States, APAC and the EU are the most profitable markets
-$2.19M in Total Sales from 2011 to 2015
-2015 has a drop in Sales due to lack of information.
+- Sales Amount MoM% Change during the period of 2021-2022
+- Sales Amount by Category, with Bars and Bites being the most sold categories.
+- Shipment Count by Month
+- Total Sales for $44M and $35.33 in Average Sales by Customers
 
 ## Interactive Dashboard
-Explore the Dashboard
+[**Explore the Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMTUxYmU2MDItZGM3OS00YWYzLWE4MjAtN2NkNzdjOWQxZWEwIiwidCI6Ijk2ODc2Y2E3LTJmZTktNDg3YS05NjFkLWE5MmU2N2M1YmY0OCJ9)
+
 
 Thanks for checking my project!
