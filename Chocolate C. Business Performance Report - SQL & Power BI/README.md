@@ -1,7 +1,7 @@
 # Chocolate Company Business Performance Report with SQL and Power BI
 
 ## Project Purpose
-Create a business summary dashboard with key general information to understand the company's performance in sales, growth and other metrics.
+Create a business summary dashboard with key general information to understand the company's performance in total sales, MoM% change and other metrics.
 
 ## Data sources
 awesome-chocolates SQL database
