@@ -19,6 +19,7 @@ Total Sales for $44M and $35.33 in Average Sales by Customers
 Recommend increasing inventory by 45% during winter/holiday season.
 
 ## Interactive Dashboard
-Explore the Dashboard
+
+[**Explore the Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMDE2ZDNhZWEtMTA5YS00NDMxLTljMzgtNjNjYWM3YzQyNTYyIiwidCI6Ijk2ODc2Y2E3LTJmZTktNDg3YS05NjFkLWE5MmU2N2M1YmY0OCJ9)
 
 Thanks for checking my project!
