@@ -4,7 +4,7 @@
 To clean, filter and normalize the business data, then analyzing the trends and the overall marketing performance, with the purpose of increasing conversion rates, improving customer engagement and enhancing customer feecback.
 
 ## Data sources
-awesome-chocolates SQL database
+MarketingAnalytics_RawData.bak database
 
 ## Tools Used
 SQL (Microsoft SQL Server)
@@ -12,11 +12,11 @@ Power BI (DAX)
 Power Point
 
 ## Key Insights
-Sales Amount MoM% Change during the period of 2021-2022
-Created DAX measures revealing a +180% MoM sales increase in January driven by holiday/winter season.
-Uncovered winter season (Jan-March) drives 43% of yearly sales + 46% of shipments.
-Total Sales for $44M and $35.33 in Average Sales by Customers
-Recommend increasing inventory by 45% during winter/holiday season.
+Negative trends in views, clicks and likes.
+Proposed actionable ideas on how to improve conversion rates, customer reviews and engagement.
+Conversion rate of 9.57% and CTR of 51.5% (higher than normal).
+Reduced video engagement and decreased views from October through December.
+High-priced products generated the highest review volume with 663 reviews and Medium-priced products recorded the lowest volume with 276 reviews.
 
 ## Interactive Dashboard
 
