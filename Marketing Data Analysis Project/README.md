@@ -1,7 +1,7 @@
 # Marketing Analytics Project with SQL & Power BI
 
 ## Project Purpose
-Create a business summary dashboard with key general information to understand the company's performance in total sales, MoM% change and other metrics.
+To clean, filter and normalize the business data, then analyzing the trends and the overall marketing performance, with the purpose of increasing conversion rates, improving customer engagement and enhancing customer feecback.
 
 ## Data sources
 awesome-chocolates SQL database
