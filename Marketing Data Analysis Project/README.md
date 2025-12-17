@@ -20,6 +20,6 @@ High-priced products generated the highest review volume with 663 reviews and Me
 
 ## Interactive Dashboard
 
-[**Explore the Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMDE2ZDNhZWEtMTA5YS00NDMxLTljMzgtNjNjYWM3YzQyNTYyIiwidCI6Ijk2ODc2Y2E3LTJmZTktNDg3YS05NjFkLWE5MmU2N2M1YmY0OCJ9)
+[**Explore the Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMDE2ZDNhZWEtMTA5YS00NDMxLTljMzgtNjNjYWM3YzQyNTYyIiwidCI6Ijk2ODc2Y2E3LTJmZTktNDg3YS05NjFkLWE5MmU2N2M1YmY0OCJ9&pageName=89e450457a3e69fd2e51)
 
 Thanks for checking my project!
