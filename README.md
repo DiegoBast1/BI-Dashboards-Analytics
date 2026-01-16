@@ -1,2 +1,2 @@
 # Business Intelligence Dashboards & Analytics
-Featured Data Analysis Projects
+My professional SQL & Power BI Projects
