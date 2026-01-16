@@ -1,2 +1,2 @@
-# Data-Analytics-Portfolio
+# Business Intelligence Dashboards & Analytics
 Featured Data Analysis Projects
